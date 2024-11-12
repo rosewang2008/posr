@@ -1,0 +1,11 @@
+numpy
+pandas
+openai
+anthropic
+nltk
+tqdm
+datetime
+tenacity
+sentence-transformers
+hmmlearn
+ragatouille

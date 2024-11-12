@@ -1,0 +1,4 @@
+Please read the transcript below and identify segments that each involve the discussion of an individual math problem: 
+{transcript}
+
+Please output the first line index and last line index of each segment as a list of lists: [[<first line index of segment 1>, <last line index of segment 1>], ..., [<first line index of segment n>, <last line index of segment n>]]. Only output a list of lists. Do not output any additional text or explanations.

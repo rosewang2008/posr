@@ -1,0 +1,9 @@
+Please read the transcript, identify segments that each involve the discussion of an individual math problem, and determine the math problem that was discussed in each of the segments you identified.
+
+Transcript:
+{transcript}
+
+Math problems:
+{problems}
+
+Please output the first line index and last line index of each segment, along with the ID of the problem discussed in each segment as a list of JSON objects: [{"start_line_index": <first line index of segment 1>, "end_line_index": <last line index of segment 1>, "problem_id": <ID of problem discussed in segment 1>}, ... {"start_line_index": <first line index of segment n>, "end_line_index": <last line index of segment n>, "problem_id": <ID of problem discussed in segment n>}]. If a math problem was discussed in a segment but not found in the provided set of problems, let the problem_id be -1. Only output the list of JSON objects. Do not output any additional text or explanations.

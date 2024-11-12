@@ -1,0 +1,9 @@
+Please read the segment’s transcript, read the set of math problems that might be discussed in the segment, and determine the math problem that was discussed in the segment, if any.
+
+Segment:
+{transcript}
+
+Math problems:
+{problems}
+
+If no math problem was discussed in the segment, please output "null". If a math problem was discussed in the segment but not found in the provided set of problems, please output -1. If a math problem was discussed in the segment and is found in the provided set of problems, please output the ID of the problem. Please do not output any additional text or explanations.

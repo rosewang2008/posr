@@ -38,12 +38,35 @@ The tutoring transcripts are located under `data/transcripts/`. The structure of
 
 The math problems are located under `data/ocr/`, which contains the OCR version of the problems from each problem set.
 
-
 ## Replication
 
-Run and evaluate segmentation and retrieval methods
+To run and evaluate all our independent segmentation, independent retrieval, and joint segmentation and retrieval methods, you'll need to install the required packages. You can do this by running the following command:
 
-To run and evaluate all our independent segmentation, independent retrieval, and joint segmentation and retrieval methods, you can run the following command:
+```
+pip install -r requirements.txt
+```
+
+We have already ran the methods and saved the predictions and evaluation summaries in `results.zip`. You can download and can unzip the file and view the results with `unzip results.zip`: 
+
+Link: https://drive.google.com/file/d/1gcOKIgZa2yGwzhgrd7pXwTcGV_NW9aXn/view?usp=share_link
+
+### If you want to run the methods individually:
+
+The command template is: 
+
+```
+python3 scripts/run.py --task=[segmentation/retrieval/segmentation_and_retrieval] --method=[method] --run_evaluation
+```
+
+For example to run the TextTiling segmentation method:
+
+```
+python3 scripts/run.py --task=segmentation --method=texttiling --run_evaluation
+```
+
+### If you want to run all the methods and evaluate them:
+
+You can run the following command which will run all the methods and evaluate them:
 
 ```
 sh run.sh
