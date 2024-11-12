@@ -1,0 +1,30 @@
+H = 1.88L + 32.01
+
+The formula above can be used to approximate the
+height H, in inches, of an adult male based on the
+length L, in inches, of his femur. What is the
+meaning of 1.88 in this context?
+
+A)
+
+B)
+
+C)
+
+D)
+
+[he approximate femur length, in inches, for a
+man with a height of 32.01 inches
+
+The approximate increase in a man’s femur
+length, in inches, for each increase of
+32.01 inches in his height
+
+The approximate increase in a man’s femur
+length, in inches, for each one-inch increase in
+his height
+
+The approximate increase in a man’s height, in
+inches, for each one-inch increase in his femur
+length
+

@@ -1,0 +1,14 @@
+BE
+
+—3xt+y=6
+ax+2y=4
+
+In the system of equations above, a is a constant. For
+which of the following values of a does the system
+have no solution?
+
+A) -6
+B) -3
+Cc) 3
+
+D) 6

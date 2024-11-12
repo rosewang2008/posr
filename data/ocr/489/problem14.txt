@@ -1,0 +1,11 @@
+A company purchased a machine valued at $120,000.
+The value of the machine depreciates by the same
+amount each year so that after 10 years the value will
+be $30,000. Which of the following equations gives
+the value, v, of the machine, in dollars, t years after it
+was purchased for 0 <t< 10?
+
+A) v= 30,000 — 9,000¢
+B) v= 120,000 — 9, 000t
+C) v= 120,000 + 9,000t
+D) v= 120,000 - 30,000t

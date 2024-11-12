@@ -1,0 +1,7 @@
+Vox?
+If x > 0, which of the following is equivalent to the
+given expression?
+A) 3x
+B) 3x2
+C) 18x
+D) 18x*

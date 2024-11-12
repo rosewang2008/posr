@@ -1,0 +1,17 @@
+The first year Eleanor organized a fund-raising event,
+she invited 30 people. For each of the next 5 years,
+she invited double the number of people she had
+invited the previous year. If f(n) is the number of
+people invited to the fund-raiser n years after
+Eleanor began organizing the event, which of the
+following statements best describes the function f ?
+
+A) The function f is a decreasing linear function.
+B) The function f is an increasing linear function.
+
+C) The function f is a decreasing exponential
+function.
+
+D) The function f is an increasing exponential
+function.
+

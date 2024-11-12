@@ -1,0 +1,26 @@
+Ice Cream Sales
+
+500 +5 4
+
+Sales (dollars)
+
+10 12 14 16 18 20 22 24 26
+
+The scatterplot above
+
+Temperature (°C)
+
+shows a company’s ice cream
+
+sales d, in dollars, and the high temperature t, in
+degrees Celsius (°C), on 12 different days. A line of
+best fit for the data is also shown. Which of the
+
+following could be an
+
+A) d= 0.03t + 402
+B) d= 10t+ 402
+C) d= 33t + 300
+D) d= 33t+84
+
+equation of the line of best fit?

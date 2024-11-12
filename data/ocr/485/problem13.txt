@@ -1,0 +1,14 @@
+{
++ Ls” = f(x)
+‘| (2,5) (4, 5)
+(3, 1)
+op tx
+
+The graph of the function f in the xy-plane above is a
+parabola. Which of the following defines f ?
+
+A) f(x) =4(x-3) +1
+B) f(x) =4(x+3)? +1
+©) f(x) =(x-3)P +1
+
+D) f(x) =3(x+3)? 41

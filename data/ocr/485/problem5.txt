@@ -1,0 +1,14 @@
+C=75h +125
+
+The equation above gives the amount C, in dollars,
+an electrician charges for a job that takes h hours.
+Ms. Sanchez and Mr. Roland each hired this
+electrician. The electrician worked 2 hours longer on
+Ms. Sanchez’s job than on Mr. Roland’s job. How
+much more did the electrician charge Ms. Sanchez
+than Mr. Roland?
+
+A) $75
+B) $125
+C) $150
+D) $275

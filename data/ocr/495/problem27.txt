@@ -1,0 +1,11 @@
+N
+
+In the xy-plane, the graph of the polynomial
+function f crosses the x-axis at exactly two points,
+(a,0) and (b,0), where a and b are both positive.
+Which of the following could define f ?
+
+A) f(x) = (x-a)(x-b)
+B) f(x) = (x+a)(x+b)
+C) f(x) = (x-a)(x+b)
+D) f(x) = x(x-a)(x-b)

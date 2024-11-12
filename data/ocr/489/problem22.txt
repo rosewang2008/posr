@@ -1,0 +1,14 @@
+The weights, in pounds, for 15 horses in a stable were
+reported, and the mean, median, range, and standard
+eviation for the data were found. The horse with the
+lowest reported weight was found to actually weigh
+
+0 pounds less than its reported weight. What value
+remains unchanged if the four values are reported
+using the corrected weight?
+
+A) Mean
+B) Median
+C) Range
+D) Standard deviation
+

@@ -1,0 +1,5 @@
+2x + 3y = 1200
+3x + 2y = 1300
+
+Based on the system of equations above, what is the
+value of 5x+5y ?

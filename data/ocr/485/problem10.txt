@@ -1,0 +1,9 @@
+(ax + 3)(5x— bx + 4) = 20x°- 9x? -2x +12
+
+The equation above is true for all x, where a and b
+are constants. What is the value of ab ?
+
+A) 18
+B) 20
+C) 24
+D) 40

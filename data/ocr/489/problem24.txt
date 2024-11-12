@@ -1,0 +1,8 @@
+If f(x) = 5x? —3 and f(x+a) = 5x? + 30x + 42,
+what is the value of a ?
+
+A) -30
+
+B) -3
+
+C) 3

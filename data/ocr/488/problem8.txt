@@ -1,0 +1,27 @@
+The line graphed in the xy-plane below models the
+
+total cost, in dollars, for a cab ride, y, in a certain city
+during nonpeak hours based on the number of miles
+traveled, x.
+
+Total Cost for a Cab Ride
+y
+f
+15
+
+10
+
+Cost (dollars)
+
+0 =x
+0 5 10
+
+Distance traveled (miles)
+
+According to the graph, what is the cost for each
+additional mile traveled, in dollars, of a cab ride?
+
+A) $2.00
+B) $2.60
+C) $3.00
+D) $5.00

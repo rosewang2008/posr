@@ -1,0 +1,9 @@
+A book was on sale for 40% off its original price. If
+the sale price of the book was $18.00, what was the
+original price of the book? (Assume there is no sales
+tax.)
+
+A) $7.20
+B) $10.80
+C) $30.00
+D) $45.00

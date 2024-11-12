@@ -1,0 +1,13 @@
+_x+3
+
+fe) =
+
+For the function f defined above, what is the value of
+
+f(-1)?
+
+A) -2
+B) -1
+Cc) 1
+
+D) 2

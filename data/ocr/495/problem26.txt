@@ -1,0 +1,17 @@
+h(x) = —16x? + 100x + 10
+
+The quadratic function above models the height
+above the ground Af, in feet, of a projectile x seconds
+after it had been launched vertically. If y = h(x) is
+graphed in the xy-plane, which of the following
+represents the real-life meaning of the positive
+x-intercept of the graph?
+
+A) The initial height of the projectile
+
+B) The maximum height of the projectile
+
+C) The time at which the projectile reaches its
+maximum height
+
+D) The time at which the projectile hits the ground

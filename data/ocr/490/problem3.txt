@@ -1,0 +1,32 @@
+Shipping Charges
+Merchandise weight | Shipping
+(pounds) charge
+5 $16.94
+10 $21.89
+20 $31.79
+40 $51.59
+
+The table above shows shipping charges for an online
+
+retailer tl
+relations
+weight o
+
+hat sells sporting goods. There is a linear
+hip between the shipping charge and the
+the merchandise. Which function can be
+
+used to
+
+etermine the total shipping charge f(x), in
+
+dollars, for an order with a merchandise weight of
+
+x pounds?
+
+A) f(x) = 0.99x
+
+B) f(x) = 0.99x + 11.99
+C) f(x) = 3.39x
+
+D) f(x) = 3.39x+16.94

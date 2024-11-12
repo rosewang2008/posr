@@ -1,0 +1,8 @@
+w
+a
+
+a(x+b) =4x+10
+
+In the equation above, a and b are constants. If the
+equation has infinitely many solutions for x, what is
+the value of b ?

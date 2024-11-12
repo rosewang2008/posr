@@ -1,0 +1,16 @@
+13
+
+A cargo helicopter delivers only 100-pound packages
+and 120-pound packages. For each delivery trip, the
+helicopter must carry at least 10 packages, and the
+total weight of the packages can be at most
+
+1,100 pounds. What is the maximum number of
+120-pound packages that the helicopter can carry
+per trip?
+
+A) 2
+B) 4
+QC 5
+D) 6
+

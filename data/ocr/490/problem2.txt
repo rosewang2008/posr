@@ -1,0 +1,14 @@
+A television with a price of $300 is to be purchased
+with an initial payment of $60 and weekly payments
+of $30. Which of the following equations can be used
+to find the number of weekly payments, w, required
+to complete the purchase, assuming there are no
+taxes or fees?
+
+A) 300 = 30w- 60
+
+B) 300 =30w
+
+C) 300 = 30w +60
+
+D) 300 = 60w - 30

@@ -1,0 +1,5 @@
+What value of x satisfies the equation 3x + 3 = 27 ?
+
+A) 3
+B) 8
+C) 10

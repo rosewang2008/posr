@@ -1,0 +1,7 @@
+A circle in the xy-plane has center (5,7) and radius 2.
+Which of the following is an equation of the circle?
+
+A) (x-5)? +(y-7)" =4
+B) (x+5)°+(y+7) =4
+C) (x-5)? +(y-7" =2
+D) (x+5)°+(y+7) =2

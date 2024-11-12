@@ -1,0 +1,16 @@
+Number of Goals Scored by
+a Soccer Team in 29 Games
+
+.
+o
+
+Number of games
+CrPNWHUDN OO
+
+0 1 2 3 4 5 6 7
+Number of goals scored
+
+Based on the graph above, in how many of the games
+played did the soccer team score goals equal to the
+median number of goals for the 29 games?
+

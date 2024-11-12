@@ -1,0 +1,11 @@
+During which of the following 10-minute intervals
+does the temperature of the coffee decrease at the
+greatest average rate?
+
+A) Between 0 and 10 minutes
+
+B) Between 30 and 40 minutes
+
+C) Between 50 and 60 minutes
+
+D) Between 90 and 100 minutes

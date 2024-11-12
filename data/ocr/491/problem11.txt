@@ -1,0 +1,20 @@
+List A 1 2 3 4 5 6
+
+List B 2 3 3 4 4 5
+
+The table above shows two lists of numbers. Which
+of the following is a true statement comparing list A
+and list B?
+
+A) The means are the same, and the standard
+deviations are different.
+
+B) The means are the same, and the standard
+deviations are the same.
+
+C) The means are different, and the standard
+deviations are different.
+
+D) The means are different, and the standard
+deviations are the same.
+

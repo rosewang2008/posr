@@ -1,0 +1,7 @@
+2n .
+ft = 10, what is the value of 2n — 1 2?
+
+A) 24
+B) 49
+C) 50
+D) 99

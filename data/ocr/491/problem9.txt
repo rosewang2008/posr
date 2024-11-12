@@ -1,0 +1,5 @@
+h(x) = 2*
+
+The function h is defined above. What is
+h(5) — h(3) ?
+A) 2

@@ -1,0 +1,15 @@
+The maximum value of a data set consisting of
+
+25 positive integers is 84. A new data set consisting
+of 26 positive integers is created by including 96 in
+the original data set. Which of the following
+measures must be 12 greater for the new data set
+than for the original data set?
+
+A) The mean
+
+B) The median
+
+C) The range
+
+D) The standard deviation

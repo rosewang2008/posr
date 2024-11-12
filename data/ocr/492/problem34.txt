@@ -1,0 +1,3 @@
+The relationship between x and y can be written as
+y = mx, where m is a constant. If y = 17 when x = a,
+what is the value of y when x = 2a ?

@@ -1,0 +1,6 @@
+Lynne has $8.00 to spend on apples and oranges.
+Apples cost $0.65 each, and oranges cost $0.75 each.
+If there is no tax on this purchase and she buys
+
+5 apples, what is the maximum number of whole
+oranges she can buy?

@@ -1,0 +1,10 @@
+BE
+
+A right circular cone has a volume of 247 cubic
+inches. If the height of the cone is 2 inches, what
+is the radius, in inches, of the base of the cone?
+
+A) 2V3
+B) 6
+C) 12
+D) 36

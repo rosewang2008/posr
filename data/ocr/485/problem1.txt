@@ -1,0 +1,7 @@
+2x-y=8
+x+2y=4
+For the system of equations above, what is the value
+of x+y?
+A) -1
+B) 4
+Cc) 5

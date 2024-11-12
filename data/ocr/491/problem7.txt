@@ -1,0 +1,21 @@
+A retail company has 50 large stores located in
+different areas throughout a state. A researcher for
+the company believes that employee job satisfaction
+varies greatly from store to store. Which of the
+following sampling methods is most appropriate to
+estimate the proportion of all employees of the
+company who are satisfied with their job?
+
+A) Selecting one of the 50 stores at random and
+then surveying each employee at that store
+
+B) Selecting 10 employees from each store at
+random and then surveying each employee
+selected
+
+C) Surveying the 25 highest-paid employees and the
+25 lowest-paid employees
+
+D) Creating a website on which employees can
+express their opinions and then using the first
+50 responses

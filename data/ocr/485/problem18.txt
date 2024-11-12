@@ -1,0 +1,11 @@
+it
+
+ara
+SEY
+
+The figure above shows the complete graph of the
+
+function f in the xy-plane. The function g (not
+shown) is defined by g(x) = f(x) + 6. What is the
+maximum value of the function g ?
+

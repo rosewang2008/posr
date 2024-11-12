@@ -1,0 +1,29 @@
+900
+800
+700
+600
+500
+400
+300 +
+200-#"
+100 #
+0
+
+Total amount deposited
+(dollars)
+
+01234567
+Number of weeks
+
+The two graphs above show the total amounts of
+money that Ian and Jeremy each have deposited into
+their savings accounts for the first seven weeks after
+opening their accounts. After they made their initial
+deposits, how much more did Ian deposit each week
+than Jeremy?
+
+A) $200
+B) $100
+C) $50
+D) $25
+

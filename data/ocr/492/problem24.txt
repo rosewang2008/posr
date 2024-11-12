@@ -1,0 +1,27 @@
+Number of people who voted
+
+0
+120 140 160 180 200 220 240 260 280 300
+
+Numbe
+
+r of registered voters
+
+The scatterplot above s!
+
+hows the number of registered
+
+voters, x, and the number of people who voted in the
+
+last election, y, for seve’
+
+n districts in a town. A line
+
+of best fit for the data is also shown. Which of the
+following could be the equation of the line of best fit?
+
+A) y=-0.5x
+B) y=0.5x
+C) y=-2x
+
+D) y=2x

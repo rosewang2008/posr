@@ -1,0 +1,22 @@
+The table above shows the results of a survey in
+which tablet users were asked how often they would
+watch video advertisements in order to access
+streaming content for free. Based on the table, which
+of the following is closest to the probability that a
+tablet user answered “Always,” given that the tablet
+
+Survey Results
+
+Answer | Percent
+Never | 31.3%
+Rarely | 24.3%
+Often | 13.5%
+Always | 30.9%
+
+user did not answer “Never”?
+
+A) 0.31
+B) 0.38
+C) 0.45
+D) 0.69
+

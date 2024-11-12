@@ -1,0 +1,5 @@
+In the xy-plane, a line that has the equation y = c for
+some constant c intersects a parabola at exactly one
+point. If the parabola has the equation y = =x? 45x,
+
+what is the value of c ?

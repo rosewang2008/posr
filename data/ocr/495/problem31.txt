@@ -1,0 +1,8 @@
+eS
+
+=X
+O| (4, 0) (20, 0)
+
+In the xy-plane above, the circle has center (h,k) and
+radius 10. What is the value of k ?
+

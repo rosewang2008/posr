@@ -1,0 +1,17 @@
+Keith modeled the growth over several hundred
+years of a tree population by estimating the number
+of the trees’ pollen grains per square centimeter that
+were deposited each year within layers of a lake’s
+sediment. He estimated there were 310 pollen grains
+per square centimeter the first year the grains were
+deposited, with a 1% annual increase in the number
+of grains per square centimeter thereafter. Which of
+the following functions models P(t), the number of
+pollen grains per square centimeter t years after the
+first year the grains were deposited?
+
+A) P(t) =310°
+
+B) P(t) =310!°!
+C) P(t) = 310(0.99)
+D) P(t) = 310(1.01)'

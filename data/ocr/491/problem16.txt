@@ -1,0 +1,14 @@
+16
+
+n 2015 the populations of City X and City Y were
+equal. From 2010 to 2015, the population of City X
+increased by 20% and the population of City Y
+decreased by 10%. If the population of City X was
+20,000 in 2010, what was the population of City Y
+in 2010?
+
+A) 60,000
+B) 90,000
+C) 160,000
+D) 240,000
+

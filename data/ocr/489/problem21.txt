@@ -1,0 +1,9 @@
+The graph of the exponential function h in the
+xy-plane, where y = h(x), has a y-intercept of d,
+where d is a positive constant. Which of the
+following could define the function h ?
+
+A) h(x) = -3(d)*
+B) h(x) = 3(x)d
+C) h(x) = d(-x)
+D) h(x) = d(3)*

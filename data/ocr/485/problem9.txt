@@ -1,0 +1,11 @@
+A system of three equations is graphed in the
+xy-plane above. How many solutions does the system
+have?
+
+A) None
+
+B) One
+
+C) Two
+
+D) Three

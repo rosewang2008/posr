@@ -1,0 +1,4 @@
+|2x+1,=5
+
+If a and b are the solutions to the equation above,
+what is the value of |a — b| ?

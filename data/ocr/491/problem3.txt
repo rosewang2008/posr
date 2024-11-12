@@ -1,0 +1,41 @@
+Jake buys a bag of popcorn at a movie theater. He
+eats half of the popcorn during the 15 minutes of
+previews. After eating half of the popcorn, he stops
+eating for the next 30 minutes. Then he gradually
+eats the popcorn until he accidentally spills all of the
+remaining popcorn. Which of the following graphs
+could represent the situation?
+
+A)
+
+Amount of popcorn
+in the bag
+
+in
+0 30 60 90
+Time (minutes)
+
+B)
+
+Amount of popcorn
+in the bag
+
+0 30 60 90
+Time (minutes)
+
+Cc)
+
+Amount of popcorn
+in the bag
+
+0 30 60 90
+Time (minutes)
+
+D)
+
+Amount of popcorn
+in the bag
+
+Pp dd
+0 30 60 90
+Time (minutes)

@@ -1,0 +1,13 @@
+0.10x + 0.20y = 0.18(x + y)
+
+Clayton will mix x milliliters of a 10% by mass saline
+solution with y milliliters of a 20% by mass saline
+solution in order to create an 18% by mass saline
+solution. The equation above represents this
+situation. If Clayton uses 100 milliliters of the 20% by
+mass saline solution, how many milliliters of the 10%
+by mass saline solution must he use?
+
+A) 5
+B) 25
+C) 50

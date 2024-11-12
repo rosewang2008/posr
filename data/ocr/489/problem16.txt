@@ -1,0 +1,11 @@
+16
+(4x + 4)(ax-1)-x7+4
+
+In the expression above, a is a constant. If the
+expression is equivalent to bx, where b is a constant,
+what is the value of b ?
+
+A) -5
+B) -3
+Cc) 0
+

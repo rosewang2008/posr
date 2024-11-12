@@ -1,0 +1,39 @@
+Customer Purchases at a Gas Station
+
+Beverage Beverage
+not Total
+
+purchased purchased
+
+Gasoline
+
+purchased 60 25 85
+
+Gasoline not 35 15 50
+
+purchased
+
+Total 95 40 135
+
+On Tuesday, a local gas station had 135 customers.
+The table above summarizes whether or not the
+customers on Tuesday purchased gasoline, a
+beverage, both, or neither. Based on the data in the
+table, what is the probability that a gas station
+customer selected at random on that day did not
+
+purchase gasoline?
+
+15
+A) =
+50
+15
+B) —
+40
+35
+Cc) —
+50
+50
+D)
+
+135

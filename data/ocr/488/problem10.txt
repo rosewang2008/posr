@@ -1,0 +1,16 @@
+Washington High School randomly selected
+freshman, sophomore, junior, and senior students
+for a survey about potential changes to next year’s
+schedule. Of students selected for the survey, : were
+freshmen and ; were sophomores. Half of the
+remaining selected students were juniors. If
+
+336 students were selected for the survey, how many
+
+were seniors?
+
+A) 240
+B) 140
+C) 120
+D) 70
+

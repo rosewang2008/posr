@@ -1,0 +1,12 @@
+Plant A is currently 20 centimeters tall, and Plant B
+is currently 12 centimeters tall. The ratio of the
+heights of Plant A to Plant B is equal to the ratio of
+the heights of Plant C to Plant D. If Plant C is
+
+54 centimeters tall, what is the height of Plant D, in
+centimeters?
+
+A) 32.4
+B) 44.0
+C) 62.0
+D) 90.0

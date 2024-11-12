@@ -1,0 +1,11 @@
+a)
+
+T=5e+12f
+
+A manufacturer shipped units of a certain product to
+two locations. The equation above shows the total
+shipping cost T, in dollars, for shipping c units to the
+closer location and shipping f units to the farther
+location. If the total shipping cost was $47,000 and
+3000 units were shipped to the farther location, how
+many units were shipped to the closer location?
