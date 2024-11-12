@@ -4,6 +4,8 @@
 
 Authors: Rose E. Wang, Pawan Wirawarn, Kenny Lam, Omar Khattab, Dorottya Demszky
 
+[Paper](https://aclanthology.org/2024.findings-emnlp.740/) | [Dataset](#dataset) | [Video](https://www.youtube.com/watch?v=7brgJyDYvio)
+
 **Main Idea: We introduce Problem-Oriented Segmentation and Retrieval (POSR), the task of jointly segmenting conversations and retrieving reference materials (e.g. worksheet problems) discussed in each segment.**
 
 <center>
